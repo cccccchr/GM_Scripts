@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         first script
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  hello wprld
 // @author       ccchr
 // @match        https://github.com/cccccchr/GM_Scripts
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    alert("hello world");
+    alert("hello new world");
 })();
