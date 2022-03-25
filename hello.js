@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         first script
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  hello wprld
+// @author       ccchr
 // @match        https://github.com/cccccchr/GM_Scripts
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
